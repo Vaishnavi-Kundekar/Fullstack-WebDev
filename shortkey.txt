@@ -1,0 +1,43 @@
+NAVIGATION:
+ ctrl + p         :Go to the file
+ ctrl + shift + o :Go to the symbol
+ ctrl + G         :Go to line
+ ctrl + shift + M :Go to the problem
+ F8               :Go to the next problem
+ shift + F8       :Go to the previous problem
+ ctrl + ~         :Go to the terminal
+
+EDITING:
+ ctrl + C :copy
+ ctrl + X :cut
+ ctrl + V :paste
+ ctrl + W :close the file
+ ctrl + Z :undo
+ ctrl + Y :redo
+ ctrl + A :select all
+ ctrl +   :zoom into
+ ctrl _   :zoom out
+ 
+DEBUGGING:
+  F5 :Start debugging
+  F9 :Toggle breakpoint
+  F10:Step over
+  F11:step into
+  shift + F5 :Stop debugging
+  shift + F11:step out
+
+VIEW:
+ ctrl + B :Toggle sidebar
+ ctrl + Shift + E :focus on explorer
+ ctrl + Shift + F :focus on search
+ ctrl + Shift + G :focus on source control
+ ctrl + Shift + X :focus on extensions
+
+TERMINAL:
+ ctrl + `:Toggle terminal
+ ctrl + Shift +`:create new TERMINAL
+
+OTHER:
+ ctrl + Shift + P :open command palatte
+ F1 :open command palatte
+ ctrl + ,: settings
